@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacobdeoutsiders.github.io</id>
     <title>The White House</title>
-    <updated>2020-12-06T14:33:31.016Z</updated>
+    <updated>2020-12-06T14:37:23.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jacobdeoutsiders.github.io"/>
     <link rel="self" href="https://jacobdeoutsiders.github.io/atom.xml"/>
@@ -18,7 +18,9 @@
         <updated>2020-12-06T14:10:53.000Z</updated>
         <content type="html"><![CDATA[<p>#软体简介and下载<br>
 ##Shadowsocls(ss)<br>
-##ShadowsocksR(ssr)</p>
+##ShadowsocksR(ssr)<br>
+##v2ray<br>
+##trojan</p>
 ]]></content>
     </entry>
     <entry>
